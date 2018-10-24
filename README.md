@@ -1,4 +1,4 @@
-## Fi·bo·nac·ci se·ries
+Fi·bo·nac·ci se·ries
 ======================
 ## nounMATHEMATICS
 ## noun: Fibonacci sequence
